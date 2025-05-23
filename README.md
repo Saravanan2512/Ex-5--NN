@@ -35,8 +35,9 @@ A Neural network with input layer, one hidden layer with Radial Basis function a
 
 ## PROGRAM:
 ```python
-#Developed By :MONISH N
-#Reg No:212223240097
+#Developed By :saravanan G
+#Reg No:212223230194
+
 import numpy as np
 import matplotlib.pyplot as plt
 
